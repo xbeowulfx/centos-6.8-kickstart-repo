@@ -6,3 +6,4 @@ mkisofs -o /tmp/boot.iso -b isolinux.bin -c boot.cat -no-emul-boot -boot-load-si
 
 http://timothylandry.com/post/centos-7-kickstart-and-custom-iso-creation/
 https://serverfault.com/questions/517908/how-to-create-a-custom-iso-image-in-centos
+https://www.howtoforge.com/how-to-create-a-kickstart-file-for-centos-fedora-redhat-rhel
